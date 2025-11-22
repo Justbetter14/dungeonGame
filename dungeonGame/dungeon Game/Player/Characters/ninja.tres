@@ -1,0 +1,6 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://e3hd6rc30xy5"]
+
+[ext_resource type="Script" uid="uid://d4f4vea2w8vmu" path="res://Player/character.gd" id="1_o1frk"]
+
+[resource]
+script = ExtResource("1_o1frk")
