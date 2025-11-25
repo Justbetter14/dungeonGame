@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="Character" load_steps=2 format=3 uid="uid://cr1jqo0buv6vv"]
-
-[ext_resource type="Script" uid="uid://d4f4vea2w8vmu" path="res://Player/character.gd" id="1_b3cyb"]
-
-[resource]
-script = ExtResource("1_b3cyb")
-health = 100
-speed = 300
-dashCharges = 2
